@@ -1,0 +1,22 @@
+{
+    "name": "chebur/array_map_key",
+    "type": "library",
+    "description": "Array keys mapping",
+    "homepage": "https://github.com/vchebotarev",
+    "license":  "MIT",
+    "authors": [
+        {
+            "name":     "Vladimir Chebotarev",
+            "homepage": "http://github.com/vchebotarev",
+            "email":    "v.yu.chebotarev@mail.ru"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
